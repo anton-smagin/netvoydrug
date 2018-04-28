@@ -1,0 +1,25 @@
+{
+  "name": "netvoydrug",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.4",
+    "emoji-js": "^3.4.0",
+    "file-loader": "^1.1.11",
+    "font-awesome": "^4.7.0",
+    "lodash": "^4.17.10",
+    "postcss-loader": "^2.1.4",
+    "resolve-url-loader": "^2.3.0",
+    "style-loader": "^0.21.0",
+    "url-loader": "^1.0.1",
+    "velocity": "^0.7.2",
+    "velocity-animate": "^1.5.1",
+    "vue": "^2.5.16",
+    "vue-loader": "^15.0.1",
+    "vue-template-compiler": "^2.5.16"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-vue": "^4.5.0",
+    "webpack-dev-server": "2.11.2"
+  }
+}
